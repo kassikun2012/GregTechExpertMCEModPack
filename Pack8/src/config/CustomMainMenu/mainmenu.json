@@ -1,0 +1,240 @@
+{
+    "images": {
+        "modpack": {
+            "image" : "custommainmenu:textures/gui/minecraft.png",
+            "posX": -137,
+            "posY": -92,
+            "width": 512,
+            "height": 512,
+            "alignment": "center"
+        }
+    },
+    "buttons": {
+        "gteserver": {
+            "text": " ",
+            "posX": -100,
+            "posY": -25,
+            "fontSize": 2,
+            "width": 200,
+            "height": 43,
+            "alignment": "center",
+            "imageWidth": "800",
+            "imageHeight": "172",
+            "texture": "mainmenu:serverjoin.png",
+            "action": {
+                "type": "connectToServer",
+                "ip": "greg-tech.mydns.jp"
+            }
+        },
+        "singleplayer": {
+            "text": "menu.singleplayer",
+            "posX": -100,
+            "posY": 21,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },
+        "multiplayer": {
+            "text": "menu.multiplayer",
+            "posX": 2,
+            "posY": 21,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+        "options": {
+            "text": "menu.options",
+            "posX": -100,
+            "posY": 44,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+        "mods": {
+            "text": "Mods",
+            "posX": 2,
+            "posY": 44,
+            "width": 98,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
+            }
+        },
+        "gtediscord": {
+            "text": " ",
+            "posX": -100,
+            "posY": 67,
+            "width": 200,
+            "height": 20,
+            "alignment": "center",
+            "normalTextColor": 16768000,
+            "imageWidth": "800",
+            "imageHeight": "80",
+            "texture": "mainmenu:discordjoin.png",
+            "action": {
+                "type": "openLink",
+                "link": "https://discord.gg/pV9bzsS"
+            }
+        },
+        "quit": {
+            "text": "menu.quit",
+            "posX": -100,
+            "posY": 90,
+            "width": 200,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "quit"
+            }
+        },
+        "language": {
+            "text": "",
+            "posX": 104,
+            "posY": -25,
+            "width": 20,
+            "height": 20,
+            "tooltip": "Language",
+            "alignment": "center",
+            "imageWidth": "40",
+            "imageHeight": "40",
+            "texture": "mainmenu:lang.png",
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
+            }
+        },
+        "fruit website": {
+            "text": "",
+            "posX": 104,
+            "posY": -2,
+            "width": 20,
+            "height": 20,
+            "alignment": "center",
+            "tooltip": "GregTech Expert on CurseForge",
+            "texture": "mainmenu:web.png",
+            "imageWidth": "40",
+            "imageHeight": "40",
+            "action": {
+                "type": "openLink",
+                "link": "https://minecraft.curseforge.com/projects/gregtech-expert"
+            }
+        },
+        "refresh": {
+            "text": "",
+            "posX": -20,
+            "posY": 0,
+            "width": 20,
+            "height": 20,
+            "alignment": "top_right",
+            "texture": "mainmenu:refresh.png",
+            "action": {
+                "type": "refresh"
+            }
+        }
+    },
+    "texts": {
+        "mojang": {
+            "text": "Copyright Mojang AB",
+            "posX": -65,
+            "posY": -13,
+            "fontSize": 0.6,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_right"
+        },
+        "forge": {
+            "text": "Minecraft #mcversion#",
+            "posX": 3,
+            "posY": -19,
+            "fontSize": 0.6,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_left"
+        },
+        "modsloaded": {
+            "text": "#modsloaded# Mods Loaded",
+            "posX": 3,
+            "posY": -13,
+            "fontSize": 0.6,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_left"
+        },
+        "modpack": {
+            "text": "GregTech Expert",
+            "posX": 3,
+            "posY": -33,
+            "fontSize": 0.6,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_left"
+        },
+        "modpack2": {
+            "text": "Magic Custom Edition 1.0.2",
+            "posX": 3,
+            "posY": -27,
+            "fontSize": 0.6,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment": "bottom_left"
+        },
+        "newsLine1": {
+            "text": "",
+            "posX": -100,
+            "posY": 15,
+            "fontSize": 2.5,
+            "color": 16711680,
+            "hoverColor": 16711680,
+            "alignment": "top_center"
+        },
+        "newsLine2": {
+            "text": "",
+            "posX": -100,
+            "posY": 40,
+            "fontSize": 2.5,
+            "color": 16711680,
+            "hoverColor": 16711680,
+            "alignment": "top_center"
+        },
+        "newsLine3": {
+            "text": "",
+            "posX": -140,
+            "posY": 33,
+            "fontSize": 0.8,
+            "color": 16711680,
+            "hoverColor": 16711680,
+            "alignment": "top_right"
+        }
+    },
+    "other": {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY": -72,
+            "color" : -256,
+            "alignment" : "center"
+        },
+        "panorama":
+        {
+            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}
