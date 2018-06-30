@@ -53,6 +53,7 @@ Found creative tab: rt.name
 Found creative tab: GregTech.Main
 Found creative tab: GregTech.Materials
 Found creative tab: GregTech.Ores
+Found creative tab: Hammerz
 Found creative tab: transportation
 Found creative tab: brewing
 Found creative tab: materials
@@ -91,23 +92,23 @@ Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
 Loading: ThermalExpansion.js
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ExtraUtilities:trading_post
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ExtraUtilities:trading_post
+getRandomMaterial called. Returned: ProjRed|Illumination:projectred.illumination.lamp_21
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ProjRed|Illumination:projectred.illumination.lamp_21
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: ProjRed|Illumination:projectred.illumination.lamp_18
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ProjRed|Illumination:projectred.illumination.lamp_18
+getRandomMaterial called. Returned: ProjRed|Illumination:projectred.illumination.lamp_28
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ProjRed|Illumination:projectred.illumination.lamp_28
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 2414
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1262
+getFacadesSize called. Returned: 2423
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1529
 Loading: Bibliocraft.js
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 1918
-override called. Params: appliedenergistics2, item.ItemFacade, 120
+getNumberOfTypes called. Returned: 1927
+override called. Params: appliedenergistics2, item.ItemFacade, 1426
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js

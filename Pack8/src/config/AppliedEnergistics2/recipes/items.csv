@@ -352,27 +352,102 @@ ae2stuff:Encoder, Pattern Encoder
 ae2stuff:Grower, Crystal Growth Chamber
 ae2stuff:Inscriber, Advanced Inscriber
 ae2stuff:Wireless, Wireless Connector
-AWWayofTime:Altar, Blood Altar
-AWWayofTime:AlchemicalWizardrybloodRune:0, Blood Rune
-AWWayofTime:AlchemicalWizardrybloodRune:1, Rune of Augmented Capacity
-AWWayofTime:AlchemicalWizardrybloodRune:2, Rune of Dislocation
-AWWayofTime:AlchemicalWizardrybloodRune:3, Rune of the Orb
-AWWayofTime:AlchemicalWizardrybloodRune:4, Rune of Superior Capacity
-AWWayofTime:AlchemicalWizardrybloodRune:5, Rune of Acceleration
-AWWayofTime:lifeEssence, Life Essence
-AWWayofTime:speedRune, Speed Rune
-AWWayofTime:efficiencyRune, Efficiency Rune
-AWWayofTime:runeOfSacrifice, Rune of Sacrifice
-AWWayofTime:runeOfSelfSacrifice, Rune of Self-Sacrifice
-AWWayofTime:ritualStone, Ritual Stone
-AWWayofTime:masterStone, Master Ritual Stone
-AWWayofTime:bloodSocket, Filled Socket
-AWWayofTime:imperfectRitualStone, Imperfect Ritual Stone
-AWWayofTime:armourForge, Soul Armour Forge
-AWWayofTime:emptySocket, Empty Socket
-AWWayofTime:bloodStoneBrick, Bloodstone Brick
-AWWayofTime:largeBloodStoneBrick, Large Bloodstone Brick
-AWWayofTime:blockWritingTable, Alchemic Chemistry Set
+Thaumcraft:blockFluxGoo:0, Flux Goo
+Thaumcraft:blockFluxGas:0, Flux Gas
+Thaumcraft:blockFluidPure, Purifying Fluid
+Thaumcraft:blockFluidDeath, Liquid Death
+Thaumcraft:blockCustomOre:0, Cinnabar Ore
+Thaumcraft:blockCustomOre:1, Air Infused Stone
+Thaumcraft:blockCustomOre:2, Fire Infused Stone
+Thaumcraft:blockCustomOre:3, Water Infused Stone
+Thaumcraft:blockCustomOre:4, Earth Infused Stone
+Thaumcraft:blockCustomOre:5, Order Infused Stone
+Thaumcraft:blockCustomOre:6, Entropy Infused Stone
+Thaumcraft:blockCustomOre:7, Amber Bearing Stone
+Thaumcraft:blockMagicalLog:0, Greatwood Log
+Thaumcraft:blockMagicalLog:1, Silverwood Log
+Thaumcraft:blockMagicalLeaves:0, Greatwood Leaves
+Thaumcraft:blockMagicalLeaves:1, Silverwood Leaves
+Thaumcraft:blockCustomPlant:0, Greatwood Sapling
+Thaumcraft:blockCustomPlant:1, Silverwood Sapling
+Thaumcraft:blockCustomPlant:2, Shimmerleaf
+Thaumcraft:blockCustomPlant:3, Cinderpearl
+Thaumcraft:blockCustomPlant:4, Ethereal Bloom
+Thaumcraft:blockCustomPlant:5, Vishroom
+Thaumcraft:blockTaint:0, Crusted Taint
+Thaumcraft:blockTaint:1, Tainted Soil
+Thaumcraft:blockTaint:2, Block of Flesh
+Thaumcraft:blockTaintFibres:0, Fibrous Taint
+Thaumcraft:blockTaintFibres:1, Tainted Grass
+Thaumcraft:blockTaintFibres:2, Tainted Plant
+Thaumcraft:blockTaintFibres:3, Spore Stalk
+Thaumcraft:blockCosmeticOpaque:0, Amber Block
+Thaumcraft:blockCosmeticOpaque:1, Amber Bricks
+Thaumcraft:blockCosmeticOpaque:2, Warded Glass
+Thaumcraft:blockCosmeticSolid:0, Obsidian Totem
+Thaumcraft:blockCosmeticSolid:1, Obsidian Tile
+Thaumcraft:blockCosmeticSolid:2, Paving Stone of Travel
+Thaumcraft:blockCosmeticSolid:3, Paving Stone of Warding
+Thaumcraft:blockCosmeticSolid:4, Thaumium Block
+Thaumcraft:blockCosmeticSolid:5, Tallow Block
+Thaumcraft:blockCosmeticSolid:6, Arcane Stone Block
+Thaumcraft:blockCosmeticSolid:7, Arcane Stone Bricks
+Thaumcraft:blockCosmeticSolid:8, Charged Obsidian Totem
+Thaumcraft:blockCosmeticSolid:9, Golem Fetter
+Thaumcraft:blockCosmeticSolid:11, Ancient Stone
+Thaumcraft:blockCosmeticSolid:12, Ancient Rock
+Thaumcraft:blockCosmeticSolid:14, Crusted Stone
+Thaumcraft:blockCosmeticSolid:15, Ancient Stone Pedestal
+Thaumcraft:blockCrystal:0, Air Crystal Cluster
+Thaumcraft:blockCrystal:1, Fire Crystal Cluster
+Thaumcraft:blockCrystal:2, Water Crystal Cluster
+Thaumcraft:blockCrystal:3, Earth Crystal Cluster
+Thaumcraft:blockCrystal:4, Order Crystal Cluster
+Thaumcraft:blockCrystal:5, Entropy Crystal Cluster
+Thaumcraft:blockCrystal:6, Mixed Crystal Cluster
+Thaumcraft:blockTube:0, Essentia Tube
+Thaumcraft:blockTube:1, Essentia Valve
+Thaumcraft:blockTube:2, Alchemical Centrifuge
+Thaumcraft:blockTube:3, Filtered Essentia Tube
+Thaumcraft:blockTube:4, Essentia Buffer
+Thaumcraft:blockTube:5, Restricted Essentia Tube
+Thaumcraft:blockTube:6, Directional Essentia Tube
+Thaumcraft:blockTube:7, Essentia Crystallizer
+Thaumcraft:blockMetalDevice:0, Crucible
+Thaumcraft:blockMetalDevice:1, Arcane Alembic
+Thaumcraft:blockMetalDevice:5, Item Grate
+Thaumcraft:blockMetalDevice:7, Arcane Lamp
+Thaumcraft:blockMetalDevice:8, Lamp of Growth
+Thaumcraft:blockMetalDevice:13, Lamp of Fertility
+Thaumcraft:blockMetalDevice:9, Alchemical Construct
+Thaumcraft:blockMetalDevice:3, Advanced Alchemical Construct
+Thaumcraft:blockMetalDevice:12, Mnemonic Matrix
+Thaumcraft:blockMetalDevice:14, Vis Relay
+Thaumcraft:blockMetalDevice:2, Vis Charge Relay
+Thaumcraft:blockWoodenDevice:0, Arcane Bellows
+Thaumcraft:blockWoodenDevice:1, Arcane Ear
+Thaumcraft:blockWoodenDevice:2, Arcane Pressure Plate
+Thaumcraft:blockWoodenDevice:4, Arcane Bore Base
+Thaumcraft:blockWoodenDevice:5, Arcane Bore
+Thaumcraft:blockWoodenDevice:6, Greatwood Planks
+Thaumcraft:blockWoodenDevice:7, Silverwood Planks
+Thaumcraft:blockWoodenDevice:8, Crimson Cult Banner
+Thaumcraft:blockWoodenDevice:8, White Banner
+Thaumcraft:blockWoodenDevice:8, Orange Banner
+Thaumcraft:blockWoodenDevice:8, Magenta Banner
+Thaumcraft:blockWoodenDevice:8, Light Blue Banner
+Thaumcraft:blockWoodenDevice:8, Yellow Banner
+Thaumcraft:blockWoodenDevice:8, Lime Banner
+Thaumcraft:blockWoodenDevice:8, Pink Banner
+Thaumcraft:blockWoodenDevice:8, Gray Banner
+Thaumcraft:blockWoodenDevice:8, Light Gray Banner
+Thaumcraft:blockWoodenDevice:8, Cyan Banner
+Thaumcraft:blockWoodenDevice:8, Purple Banner
+Thaumcraft:blockWoodenDevice:8, Blue Banner
+Thaumcraft:blockWoodenDevice:8, Brown Banner
+Thaumcraft:blockWoodenDevice:8, Green Banner
+Thaumcraft:blockWoodenDevice:8, Red Banner
+Thaumcraft:blockWoodenDevice:8, Black Banner
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -601,38 +676,6 @@ minecraft:spawn_egg:96, Spawn Mooshroom
 minecraft:spawn_egg:98, Spawn Ocelot
 minecraft:spawn_egg:100, Spawn Horse
 minecraft:spawn_egg:120, Spawn Villager
-minecraft:spawn_egg:6396, Spawn Demon
-minecraft:spawn_egg:6397, Spawn Mandrake
-minecraft:spawn_egg:6398, Spawn Treefyd
-minecraft:spawn_egg:6399, Spawn Horned Huntsman
-minecraft:spawn_egg:6400, Spawn Ent
-minecraft:spawn_egg:6401, Spawn Owl
-minecraft:spawn_egg:6402, Spawn Toad
-minecraft:spawn_egg:6403, Spawn Baba Yaga
-minecraft:spawn_egg:6404, Spawn Coven Witch
-minecraft:spawn_egg:6405, Spawn Nightmare
-minecraft:spawn_egg:6406, Spawn Spectre
-minecraft:spawn_egg:6407, Spawn Poltergeist
-minecraft:spawn_egg:6408, Spawn Banshee
-minecraft:spawn_egg:6409, Spawn Spirit
-minecraft:spawn_egg:6410, Spawn Death
-minecraft:spawn_egg:6411, Spawn Witch Hunter
-minecraft:spawn_egg:6412, Spawn Lord of Torment
-minecraft:spawn_egg:6413, Spawn Flame Imp
-minecraft:spawn_egg:6414, Spawn Minedrake
-minecraft:spawn_egg:6415, Spawn Hobgoblin
-minecraft:spawn_egg:6416, Spawn Mog
-minecraft:spawn_egg:6417, Spawn Gulg
-minecraft:spawn_egg:6418, Spawn Shade of Leonard
-minecraft:spawn_egg:6419, Spawn Lost Soul
-minecraft:spawn_egg:6420, Spawn Werewolf
-minecraft:spawn_egg:6421, Spawn Hellhound
-minecraft:spawn_egg:6422, Spawn Villager
-minecraft:spawn_egg:6423, Spawn Guard
-minecraft:spawn_egg:6424, Spawn Vampire
-minecraft:spawn_egg:6425, Spawn Lilith
-minecraft:spawn_egg:6426, Spawn Winged Monkey
-minecraft:spawn_egg:6427, Spawn Reflection
 minecraft:experience_bottle, Bottle o' Enchanting
 minecraft:fire_charge, Fire Charge
 minecraft:writable_book, Book and Quill
@@ -662,156 +705,6 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, Minecart with TNT
 minecraft:hopper_minecart, Minecart with Hopper
-AWWayofTime:blockHomHeart, Spell Table
-AWWayofTime:blockPedestal, Arcane Pedestal
-AWWayofTime:blockPlinth, Arcane Plinth
-AWWayofTime:blockTeleposer, Teleposer
-AWWayofTime:spectralBlock, Spectral Block
-AWWayofTime:bloodLight, Blood Light
-AWWayofTime:blockConduit, Spell Conduit
-AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:0, Particle Generator
-AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:1, Self Augmentator
-AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:2, Melee Aggregator
-AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm:3, Tool Forger
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:0, Unstable Spell Empowerer
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:1, Standard Spell Empowerer
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:2, Reinforced Spell Empowerer
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:3, Imbued Spell Empowerer
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:4, Demonic Spell Empowerer
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:5, Unstable Spell Dampener
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:6, Standard Spell Dampener
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:7, Reinforced Spell Dampener
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:8, Imbued Spell Dampener
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:9, Demonic Spell Dampener
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:10, Unstable Spell Augmentor
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:11, Standard Spell Augmentor
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:12, Reinforced Spell Augmentor
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:13, Imbued Spell Augmentor
-AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement:14, Demonic Spell Augmentor
-AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:0, Default Spell Modifier
-AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:1, Offensive Spell Modifier
-AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:2, Defensive Spell Modifier
-AWWayofTime:AlchemicalWizardrytile.blockSpellModifier:3, Environmental Spell Modifier
-AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:0, Crucible of Fire
-AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:1, Ice Maker
-AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:2, Wind Generator
-AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:3, Earth Former
-AWWayofTime:spectralContainer, Spectral Container
-AWWayofTime:demonPortalMain, Demon Portal
-AWWayofTime:blockSchemSaver, Schematic Saver
-AWWayofTime:blockReagentConduit, Alchemy Relay
-AWWayofTime:blockAlchemicCalcinator, Alchemic Calcinator
-AWWayofTime:blockCrystalBelljar:0, Crystal Belljar
-AWWayofTime:blockDemonChest, Demon's Chest
-AWWayofTime:blockCrystal:0, Crystal Cluster
-AWWayofTime:blockCrystal:1, Crystal Cluster Brick
-AWWayofTime:blockMimic, Mimic Block
-AWWayofTime:blockEnchantmentGlyph:0, Glyph of the Adept Enchanter
-AWWayofTime:blockEnchantmentGlyph:1, Glyph of Arcane Potential
-AWWayofTime:blockStabilityGlyph:0, Glyph of Rigid Stability
-AWWayofTime:blockCrucible, Incense Crucible
-Thaumcraft:blockFluxGoo:0, Flux Goo
-Thaumcraft:blockFluxGas:0, Flux Gas
-Thaumcraft:blockFluidPure, Purifying Fluid
-Thaumcraft:blockFluidDeath, Liquid Death
-Thaumcraft:blockCustomOre:0, Cinnabar Ore
-Thaumcraft:blockCustomOre:1, Air Infused Stone
-Thaumcraft:blockCustomOre:2, Fire Infused Stone
-Thaumcraft:blockCustomOre:3, Water Infused Stone
-Thaumcraft:blockCustomOre:4, Earth Infused Stone
-Thaumcraft:blockCustomOre:5, Order Infused Stone
-Thaumcraft:blockCustomOre:6, Entropy Infused Stone
-Thaumcraft:blockCustomOre:7, Amber Bearing Stone
-Thaumcraft:blockMagicalLog:0, Greatwood Log
-Thaumcraft:blockMagicalLog:1, Silverwood Log
-Thaumcraft:blockMagicalLeaves:0, Greatwood Leaves
-Thaumcraft:blockMagicalLeaves:1, Silverwood Leaves
-Thaumcraft:blockCustomPlant:0, Greatwood Sapling
-Thaumcraft:blockCustomPlant:1, Silverwood Sapling
-Thaumcraft:blockCustomPlant:2, Shimmerleaf
-Thaumcraft:blockCustomPlant:3, Cinderpearl
-Thaumcraft:blockCustomPlant:4, Ethereal Bloom
-Thaumcraft:blockCustomPlant:5, Vishroom
-Thaumcraft:blockTaint:0, Crusted Taint
-Thaumcraft:blockTaint:1, Tainted Soil
-Thaumcraft:blockTaint:2, Block of Flesh
-Thaumcraft:blockTaintFibres:0, Fibrous Taint
-Thaumcraft:blockTaintFibres:1, Tainted Grass
-Thaumcraft:blockTaintFibres:2, Tainted Plant
-Thaumcraft:blockTaintFibres:3, Spore Stalk
-Thaumcraft:blockCosmeticOpaque:0, Amber Block
-Thaumcraft:blockCosmeticOpaque:1, Amber Bricks
-Thaumcraft:blockCosmeticOpaque:2, Warded Glass
-Thaumcraft:blockCosmeticSolid:0, Obsidian Totem
-Thaumcraft:blockCosmeticSolid:1, Obsidian Tile
-Thaumcraft:blockCosmeticSolid:2, Paving Stone of Travel
-Thaumcraft:blockCosmeticSolid:3, Paving Stone of Warding
-Thaumcraft:blockCosmeticSolid:4, Thaumium Block
-Thaumcraft:blockCosmeticSolid:5, Tallow Block
-Thaumcraft:blockCosmeticSolid:6, Arcane Stone Block
-Thaumcraft:blockCosmeticSolid:7, Arcane Stone Bricks
-Thaumcraft:blockCosmeticSolid:8, Charged Obsidian Totem
-Thaumcraft:blockCosmeticSolid:9, Golem Fetter
-Thaumcraft:blockCosmeticSolid:11, Ancient Stone
-Thaumcraft:blockCosmeticSolid:12, Ancient Rock
-Thaumcraft:blockCosmeticSolid:14, Crusted Stone
-Thaumcraft:blockCosmeticSolid:15, Ancient Stone Pedestal
-Thaumcraft:blockCrystal:0, Air Crystal Cluster
-Thaumcraft:blockCrystal:1, Fire Crystal Cluster
-Thaumcraft:blockCrystal:2, Water Crystal Cluster
-Thaumcraft:blockCrystal:3, Earth Crystal Cluster
-Thaumcraft:blockCrystal:4, Order Crystal Cluster
-Thaumcraft:blockCrystal:5, Entropy Crystal Cluster
-Thaumcraft:blockCrystal:6, Mixed Crystal Cluster
-Thaumcraft:blockTube:0, Essentia Tube
-Thaumcraft:blockTube:1, Essentia Valve
-Thaumcraft:blockTube:2, Alchemical Centrifuge
-Thaumcraft:blockTube:3, Filtered Essentia Tube
-Thaumcraft:blockTube:4, Essentia Buffer
-Thaumcraft:blockTube:5, Restricted Essentia Tube
-Thaumcraft:blockTube:6, Directional Essentia Tube
-Thaumcraft:blockTube:7, Essentia Crystallizer
-Thaumcraft:blockMetalDevice:0, Crucible
-Thaumcraft:blockMetalDevice:1, Arcane Alembic
-Thaumcraft:blockMetalDevice:5, Item Grate
-Thaumcraft:blockMetalDevice:7, Arcane Lamp
-Thaumcraft:blockMetalDevice:8, Lamp of Growth
-Thaumcraft:blockMetalDevice:13, Lamp of Fertility
-Thaumcraft:blockMetalDevice:9, Alchemical Construct
-Thaumcraft:blockMetalDevice:3, Advanced Alchemical Construct
-Thaumcraft:blockMetalDevice:12, Mnemonic Matrix
-Thaumcraft:blockMetalDevice:14, Vis Relay
-Thaumcraft:blockMetalDevice:2, Vis Charge Relay
-Thaumcraft:blockWoodenDevice:0, Arcane Bellows
-Thaumcraft:blockWoodenDevice:1, Arcane Ear
-Thaumcraft:blockWoodenDevice:2, Arcane Pressure Plate
-Thaumcraft:blockWoodenDevice:4, Arcane Bore Base
-Thaumcraft:blockWoodenDevice:5, Arcane Bore
-Thaumcraft:blockWoodenDevice:6, Greatwood Planks
-Thaumcraft:blockWoodenDevice:7, Silverwood Planks
-Thaumcraft:blockWoodenDevice:8, Crimson Cult Banner
-Thaumcraft:blockWoodenDevice:8, White Banner
-Thaumcraft:blockWoodenDevice:8, Orange Banner
-Thaumcraft:blockWoodenDevice:8, Magenta Banner
-Thaumcraft:blockWoodenDevice:8, Light Blue Banner
-Thaumcraft:blockWoodenDevice:8, Yellow Banner
-Thaumcraft:blockWoodenDevice:8, Lime Banner
-Thaumcraft:blockWoodenDevice:8, Pink Banner
-Thaumcraft:blockWoodenDevice:8, Gray Banner
-Thaumcraft:blockWoodenDevice:8, Light Gray Banner
-Thaumcraft:blockWoodenDevice:8, Cyan Banner
-Thaumcraft:blockWoodenDevice:8, Purple Banner
-Thaumcraft:blockWoodenDevice:8, Blue Banner
-Thaumcraft:blockWoodenDevice:8, Brown Banner
-Thaumcraft:blockWoodenDevice:8, Green Banner
-Thaumcraft:blockWoodenDevice:8, Red Banner
-Thaumcraft:blockWoodenDevice:8, Black Banner
 Thaumcraft:blockStoneDevice:0, Alchemical Furnace
 Thaumcraft:blockStoneDevice:1, Arcane Pedestal
 Thaumcraft:blockStoneDevice:2, Runic Matrix
@@ -833,6 +726,12 @@ Thaumcraft:blockArcaneDoor, Arcane Door
 Thaumcraft:blockLifter, Arcane Levitator
 Thaumcraft:blockMagicBox, tile.blockMagicBox.name
 Thaumcraft:blockAlchemyFurnace, Advanced Alchemical Furnace
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
 Thaumcraft:blockJar:0, Warded Jar
 Thaumcraft:blockJar:1, Brain in a Jar
 Thaumcraft:blockJar:3, Void Jar
@@ -1576,12 +1475,6 @@ chisel:beacon:12, Beacon
 chisel:beacon:13, Beacon
 chisel:beacon:14, Beacon
 chisel:beacon:15, Beacon
-chisel:bloodRune:0, Blood Rune
-chisel:bloodRune:1, Blood Rune
-chisel:bloodRune:2, Blood Rune
-chisel:bloodRune:3, Blood Rune
-chisel:bloodRune:4, Blood Rune
-chisel:bloodRune:5, Blood Rune
 chisel:bookshelf:1, Bookshelf
 chisel:bookshelf:2, Bookshelf
 chisel:bookshelf:3, Bookshelf
@@ -3074,7 +2967,7 @@ extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
+ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6961,191 +6854,6 @@ ThaumicExploration:crucibleSouls, Crucible of Souls
 ThaumicExploration:replicator, Thaumic Replicator
 Torcherino:tile.torcherino, Torcherino
 Torcherino:tile.inverse_torcherino, Inverted Torcherino
-witchery:belladonna, Belladonna
-witchery:mandrake, Mandrake
-witchery:artichoke, Water Artichoke
-witchery:snowbell, Snowbell
-witchery:wormwood, Wormwood
-witchery:mindrake, Minedrake
-witchery:wolfsbane, Wolfsbane
-witchery:garlicplant, Garlic
-witchery:witchsapling:0, Rowan Sapling
-witchery:witchsapling:1, Alder Sapling
-witchery:witchsapling:2, Hawthorn Sapling
-witchery:witchlog:0, Rowan Wood
-witchery:witchlog:1, Alder Wood
-witchery:witchlog:2, Hawthorn Wood
-witchery:witchleaves:0, Rowan Leaves
-witchery:witchleaves:1, Alder Leaves
-witchery:witchleaves:2, Hawthorn Leaves
-witchery:voidbramble, Void Bramble
-witchery:bramble:0, Ender Bramble
-witchery:bramble:1, Wild Bramble
-witchery:glintweed, Glint Weed
-witchery:spanishmoss, Spanish Moss
-witchery:leapinglily, Leaping Lily
-witchery:plantmine:0, Poppy of Webs
-witchery:plantmine:1, Poppy of Ink
-witchery:plantmine:2, Poppy of Thorns
-witchery:plantmine:3, Poppy of Sprouting
-witchery:plantmine:4, Dandelion of Webs
-witchery:plantmine:5, Dandelion of Ink
-witchery:plantmine:6, Dandelion of Thorns
-witchery:plantmine:7, Dandelion of Sprouting
-witchery:plantmine:8, Shrub of Webs
-witchery:plantmine:9, Shrub of Ink
-witchery:plantmine:10, Shrub of Thorns
-witchery:plantmine:11, Shrub of Sprouting
-witchery:embermoss, Ember Moss
-witchery:crittersnare:0, Critter Snare
-witchery:grassper, Grassper
-witchery:bloodrose, Blood Poppy
-witchery:somniancotton, Wispy Cotton
-witchery:web, Web
-witchery:vine, Vine
-witchery:cactus, Cactus
-witchery:lilypad, tile.lilypad.name
-witchery:demonheart, Demon Heart
-witchery:wolfhead:0, Wolf Head
-witchery:wolfhead:1, Hellhound Head
-witchery:witchwood:0, Rowan Planks
-witchery:witchwood:1, Alder Planks
-witchery:witchwood:2, Hawthorn Planks
-witchery:stairswoodrowan, Rowan Stairs
-witchery:stairswoodalder, Alder Stairs
-witchery:stairswoodhawthorn, Hawthorn Stairs
-witchery:witchwoodslab:0, Rowan Slab
-witchery:witchwoodslab:1, Alder Slab
-witchery:witchwoodslab:2, Hawthorn Slab
-witchery:witchwooddoubleslab:0, Rowan Slab
-witchery:witchwooddoubleslab:1, Alder Slab
-witchery:witchwooddoubleslab:2, Hawthorn Slab
-witchery:rowanwooddoor, Rowan Wood Door
-witchery:alderwooddoor, Alder Wood Door
-witchery:chalice, Chalice
-witchery:candelabra, Candelabra
-witchery:placeditem, tile.witchery:placeditem.name
-witchery:alluringskull, Alluring Skull
-witchery:wickerbundle:0, Wicker Bundle
-witchery:wickerbundle:1, Bloodied Wicker Bundle
-witchery:glowglobe, Glow Globe
-witchery:statuegoddess, Statue of The Goddess
-witchery:stockade:0, Oak Stockade
-witchery:stockade:1, Spruce Stockade
-witchery:stockade:2, Birch Stockade
-witchery:stockade:3, Jungle Stockade
-witchery:stockade:4, Rowan Stockade
-witchery:stockade:5, Alder Stockade
-witchery:stockade:6, Hawthorn Stockade
-witchery:stockade:7, Acacia Stockade
-witchery:stockade:8, Dark Oak Stockade
-witchery:icestockade:0, Ice Stockade
-witchery:perpetualice, Perpetual Ice
-witchery:icedoor, Ice Door
-witchery:icestairs, Ice Stairs
-witchery:iceslab:0, Ice Slab
-witchery:icedoubleslab:0, Ice Slab
-witchery:icefence, Ice Fence
-witchery:icefencegate, Ice Gate
-witchery:icepressureplate, Ice Pressure Plate
-witchery:snowpressureplate, Snow Pressure Plate
-witchery:snowstairs, Snow Stairs
-witchery:snowslab:0, Snow Slab
-witchery:snowdoubleslab:0, Snow Slab
-witchery:infinityegg, Infinity Egg
-witchery:slurp, tile.witchery:slurp.name
-witchery:pitdirt, Dirt
-witchery:pitgrass, Grass
-witchery:garlicgarland, Garlic Garland
-witchery:bloodedwool, Blood-stained Wool
-witchery:shadedglass:0, White Shaded Glass
-witchery:shadedglass:1, Orange Shaded Glass
-witchery:shadedglass:2, Magenta Shaded Glass
-witchery:shadedglass:3, Light Blue Shaded Glass
-witchery:shadedglass:4, Yellow Shaded Glass
-witchery:shadedglass:5, Lime Shaded Glass
-witchery:shadedglass:6, Pink Shaded Glass
-witchery:shadedglass:7, Gray Shaded Glass
-witchery:shadedglass:8, Silver Shaded Glass
-witchery:shadedglass:9, Cyan Shaded Glass
-witchery:shadedglass:10, Purple Shaded Glass
-witchery:shadedglass:11, Blue Shaded Glass
-witchery:shadedglass:12, Brown Shaded Glass
-witchery:shadedglass:13, Green Shaded Glass
-witchery:shadedglass:14, Red Shaded Glass
-witchery:shadedglass:15, Black Shaded Glass
-witchery:shadedglass_active:0, White Shaded Glass
-witchery:shadedglass_active:1, Orange Shaded Glass
-witchery:shadedglass_active:2, Magenta Shaded Glass
-witchery:shadedglass_active:3, Light Blue Shaded Glass
-witchery:shadedglass_active:4, Yellow Shaded Glass
-witchery:shadedglass_active:5, Lime Shaded Glass
-witchery:shadedglass_active:6, Pink Shaded Glass
-witchery:shadedglass_active:7, Gray Shaded Glass
-witchery:shadedglass_active:8, Silver Shaded Glass
-witchery:shadedglass_active:9, Cyan Shaded Glass
-witchery:shadedglass_active:10, Purple Shaded Glass
-witchery:shadedglass_active:11, Blue Shaded Glass
-witchery:shadedglass_active:12, Brown Shaded Glass
-witchery:shadedglass_active:13, Green Shaded Glass
-witchery:shadedglass_active:14, Red Shaded Glass
-witchery:shadedglass_active:15, Black Shaded Glass
-witchery:mirrorwall, Mirror Surface
-witchery:refillingchest, Chest
-witchery:force, Solid
-witchery:tormentstone, Torment Stone
-witchery:barrier, Barrier
-witchery:leechchest, Leech Chest
-witchery:altar, Altar
-witchery:kettle, Kettle
-witchery:poppetshelf, Poppet Shelf
-witchery:dreamcatcher, Dream Weaver
-witchery:crystalball, Crystal Ball
-witchery:spiritportal, Spirit Portal
-witchery:tormentportal, Torment Portal
-witchery:spinningwheel, Spinning Wheel
-witchery:brazier, Brazier
-witchery:witchesovenidle, Witches Oven
-witchery:witchesovenburning, Witches Oven
-witchery:fumefunnel, Fume Funnel
-witchery:filteredfumefunnel, Filtered Fume Funnel
-witchery:distilleryidle, Distillery
-witchery:distilleryburning, Distillery
-witchery:scarecrow, Scarecrow
-witchery:trent, Trent Effigy
-witchery:witchsladder, Witch's Ladder
-witchery:decurseteleport, Statue of Occluded Summons
-witchery:decursedirected, Statue of Broken Curses
-witchery:statueofworship, Statue of Hobgoblin Patron
-witchery:cauldron, Witch's Cauldron
-witchery:wolfaltar, Wolf Altar
-witchery:silvervat, Silver Vat
-witchery:beartrap, Beartrap
-witchery:wolftrap, Wolftrap
-witchery:wallgen, tile.witchery:wallgen.name
-witchery:coffinblock, Coffin
-witchery:light, tile.witchery:light.name
-witchery:daylightcollector, Sun Collector
-witchery:bloodcrucible, Blood Crucible
-witchery:mirrorblock, Mirror
-witchery:mirrorblock2, Mirror
-witchery:circle, Heart Glyph
-witchery:circleglyphritual, Ritual Glyph
-witchery:circleglyphotherwhere, Otherwhere Glyph
-witchery:circleglyphinfernal, Infernal Glyph
-witchery:spiritflowing, Flowing Spirit
-witchery:hollowtears, Flowing Spirit
-witchery:disease, Disease
-witchery:brew, tile.witchery:brew.name
-witchery:brewgas, tile.witchery:brewgas.name
-witchery:brewliquid, tile.witchery:brewliquid.name
-witchery:clever, Lever
-witchery:cwoodendoor, Wooden Door
-witchery:cwoodpressureplate, Pressure Plate
-witchery:cstonepressureplate, Pressure Plate
-witchery:csnowpressureplate, Snow Pressure Plate
-witchery:cbuttonwood, Button
-witchery:cbuttonstone, Button
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -7325,26 +7033,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Fluix Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Certus Quartz Slabs
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Certus Quartz Pillar Slabs
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Augmented Capacity
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Dislocation
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of the Orb
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Superior Capacity
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Acceleration
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Speed Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Efficiency Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Sacrifice
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rune of Self-Sacrifice
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ritual Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Imperfect Ritual Stone
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Soul Armour Forge
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Bloodstone Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Large Bloodstone Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Crystal Cluster
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Crystal Cluster Brick
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glyph of the Adept Enchanter
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glyph of Arcane Potential
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Glyph of Rigid Stability
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Greatwood Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Silverwood Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Livingrock
@@ -7607,12 +7295,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Arcane Stone Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Arcane Stone Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Arcane Stone Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Arcane Stone Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood Rune
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bookshelf
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bookshelf
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bookshelf
@@ -9135,21 +8817,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Birch Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Jungle Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Trim
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Trim
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rowan Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Alder Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rowan Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Alder Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Planks
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Rowan Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Alder Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Hawthorn Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Wicker Bundle
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Bloodied Wicker Bundle
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Snow Slab
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Blood-stained Wool
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Mirror Surface
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Torment Stone
 appliedenergistics2:item.ItemCrystalSeed:0, Certus Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:600, Nether Quartz Seed
 appliedenergistics2:item.ItemCrystalSeed:1200, Fluix Seed
@@ -9335,171 +9002,6 @@ appliedenergistics2:item.ItemMultiPart:380, ME Terminal
 appliedenergistics2:item.ItemMultiPart:80, ME Toggle Bus
 ae2stuff:WirelessKit, Wireless Setup Kit
 ae2stuff:Visualiser, Network Visualisation Tool
-AWWayofTime:weakBloodOrb, Weak Blood Orb
-AWWayofTime:apprenticeBloodOrb, Apprentice Blood Orb
-AWWayofTime:magicianBloodOrb, Magician's Blood Orb
-AWWayofTime:energyBlaster, Energy Blaster
-AWWayofTime:energySword, Bound Blade
-AWWayofTime:lavaCrystal, Lava Crystal
-AWWayofTime:waterSigil, Water Sigil
-AWWayofTime:lavaSigil, Lava Sigil
-AWWayofTime:voidSigil, Void Sigil
-AWWayofTime:blankSlate, Blank Slate
-AWWayofTime:reinforcedSlate, Reinforced Slate
-AWWayofTime:sacrificialKnife, Sacrificial Knife
-AWWayofTime:daggerOfSacrifice, Dagger of Sacrifice
-AWWayofTime:airSigil, Air Sigil
-AWWayofTime:sigilOfTheFastMiner, Sigil of the Fast Miner
-AWWayofTime:sigilOfElementalAffinity, Sigil of Elemental Affinity
-AWWayofTime:sigilOfHaste, Sigil of Haste
-AWWayofTime:sigilOfHolding, Sigil of Holding
-AWWayofTime:divinationSigil, Divination Sigil
-AWWayofTime:waterScribeTool, Elemental Inscription Tool: Water
-AWWayofTime:fireScribeTool, Elemental Inscription Tool: Fire
-AWWayofTime:earthScribeTool, Elemental Inscription Tool: Earth
-AWWayofTime:airScribeTool, Elemental Inscription Tool: Air
-AWWayofTime:activationCrystal:0, Weak Activation Crystal
-AWWayofTime:activationCrystal:1, Awakened Activation Crystal
-AWWayofTime:activationCrystal:2, Creative Activation Crystal
-AWWayofTime:boundPickaxe, Bound Pickaxe
-AWWayofTime:boundAxe, Bound Axe
-AWWayofTime:boundShovel, Bound Shovel
-AWWayofTime:boundHelmet, Bound Helmet
-AWWayofTime:boundPlate, Bound Plate
-AWWayofTime:boundLeggings, Bound Leggings
-AWWayofTime:boundBoots, Bound Boots
-AWWayofTime:weakBloodShard, Weak Blood Shard
-AWWayofTime:growthSigil, Sigil of the Green Grove
-AWWayofTime:blankSpell, Unbound Crystal
-AWWayofTime:masterBloodOrb, Master Blood Orb
-AWWayofTime:alchemyFlask, Potion Flask
-AWWayofTime:standardBindingAgent, Standard Binding Agent
-AWWayofTime:mundanePowerCatalyst, Mundane Power Catalyst
-AWWayofTime:averagePowerCatalyst, Average Power Catalyst
-AWWayofTime:greaterPowerCatalyst, Greater Power Catalyst
-AWWayofTime:mundaneLengtheningCatalyst, Mundane Lengthening Catalyst
-AWWayofTime:averageLengtheningCatalyst, Average Lengthening Catalyst
-AWWayofTime:greaterLengtheningCatalyst, Greater Lengthening Catalyst
-AWWayofTime:incendium, Incendium
-AWWayofTime:magicales, Magicales
-AWWayofTime:sanctus, Sanctus
-AWWayofTime:aether, Aether
-AWWayofTime:simpleCatalyst, Simple Catalyst
-AWWayofTime:crepitous, Crepitous
-AWWayofTime:crystallos, Crystallos
-AWWayofTime:terrae, Terrae
-AWWayofTime:aquasalus, Aquasalus
-AWWayofTime:tennebrae, Tenebrae
-AWWayofTime:demonBloodShard, Demon Blood Shard
-AWWayofTime:archmageBloodOrb, Archmage's Blood Orb
-AWWayofTime:transcendentBloodOrb, Transcendent Blood Orb
-AWWayofTime:sigilOfWind, Sigil of the Whirlwind
-AWWayofTime:telepositionFocus, Teleposition Focus
-AWWayofTime:enhancedTelepositionFocus, Enhanced Teleposition Focus
-AWWayofTime:reinforcedTelepositionFocus, Reinforced Teleposition Focus
-AWWayofTime:demonicTelepositionFocus, Demonic Teleposition Focus
-AWWayofTime:imbuedSlate, Imbued Slate
-AWWayofTime:demonicSlate, Demonic Slate
-AWWayofTime:duskScribeTool, Elemental Inscription Tool: Dusk
-AWWayofTime:sigilOfTheBridge, Sigil of the Phantom Bridge
-AWWayofTime:armourInhibitor, Armour Inhibitor
-AWWayofTime:creativeFiller, Orb of Testing
-AWWayofTime:demonPlacer:0, Demon Crystal
-AWWayofTime:creativeDagger, Creative Sacrificial Knife
-AWWayofTime:weakFillingAgent, Weak Filling Agent
-AWWayofTime:standardFillingAgent, Standard Filling Agent
-AWWayofTime:enhancedFillingAgent, Enhanced Filling Agent
-AWWayofTime:weakBindingAgent, Weak Binding Agent
-AWWayofTime:itemRitualDiviner:0, Ritual Diviner
-AWWayofTime:itemRitualDiviner:1, Ritual Diviner
-AWWayofTime:itemRitualDiviner:2, Ritual Diviner
-AWWayofTime:sigilOfMagnetism, Sigil of Magnetism
-AWWayofTime:itemKeyOfDiablo:0, Key of Binding
-AWWayofTime:itemKeyOfDiablo:0, Key of Binding
-AWWayofTime:energyBazooka, Energy Bazooka
-AWWayofTime:itemBloodLightSigil, Sigil of the Blood Lamp
-AWWayofTime:itemComplexSpellCrystal, Complex Spell Crystal
-AWWayofTime:sigilOfSupression, Sigil of Supression
-AWWayofTime:sigilOfEnderSeverance, Sigil of Ender Severance
-AWWayofTime:fluidSigil, 
-AWWayofTime:seerSigil, Sigil of Sight
-AWWayofTime:customTool, Dynamic Mace
-AWWayofTime:bucketLife, Bucket of Life
-AWWayofTime:itemCombinationalCatalyst, Combinational Catalyst
-AWWayofTime:itemAttunedCrystal:0, Alchemic Router
-AWWayofTime:itemTankSegmenter:0, Alchemic Segmenter
-AWWayofTime:itemDestinationClearer, Alchemic Cleanser
-AWWayofTime:bloodMagicBaseItems:0, Quartz Rod
-AWWayofTime:bloodMagicBaseItems:1, Empty Core
-AWWayofTime:bloodMagicBaseItems:2, Magicales Cable
-AWWayofTime:bloodMagicBaseItems:3, Wooden Brace
-AWWayofTime:bloodMagicBaseItems:4, Stone Brace
-AWWayofTime:bloodMagicBaseItems:5, Projectile Core
-AWWayofTime:bloodMagicBaseItems:6, Self Core
-AWWayofTime:bloodMagicBaseItems:7, Melee Core
-AWWayofTime:bloodMagicBaseItems:8, Paradigm Plate
-AWWayofTime:bloodMagicBaseItems:9, Output Spell Cable
-AWWayofTime:bloodMagicBaseItems:10, Fire Core
-AWWayofTime:bloodMagicBaseItems:11, Icy Core
-AWWayofTime:bloodMagicBaseItems:12, Gusty Core
-AWWayofTime:bloodMagicBaseItems:13, Earthen Core
-AWWayofTime:bloodMagicBaseItems:14, Input Spell Cable
-AWWayofTime:bloodMagicBaseItems:15, Cracked Runic Plate
-AWWayofTime:bloodMagicBaseItems:16, Runic Plate
-AWWayofTime:bloodMagicBaseItems:17, Imbued Runic Plate
-AWWayofTime:bloodMagicBaseItems:18, Unattuned Core
-AWWayofTime:bloodMagicBaseItems:19, Offensive Core
-AWWayofTime:bloodMagicBaseItems:20, Defensive Core
-AWWayofTime:bloodMagicBaseItems:21, Environmental Core
-AWWayofTime:bloodMagicBaseItems:22, Power Core
-AWWayofTime:bloodMagicBaseItems:23, Reduction Core
-AWWayofTime:bloodMagicBaseItems:24, Potency Core
-AWWayofTime:bloodMagicBaseItems:25, Obsidian Brace
-AWWayofTime:bloodMagicBaseItems:26, Tool Core
-AWWayofTime:bloodMagicBaseItems:27, Ethereal Slate
-AWWayofTime:bloodMagicBaseItems:28, Life Shard
-AWWayofTime:bloodMagicBaseItems:29, Soul Shard
-AWWayofTime:bloodMagicBaseItems:30, Soul Runic Plate
-AWWayofTime:bloodMagicBaseItems:31, Living Brace
-AWWayofTime:bloodMagicBaseItems:32, Ender Shard
-AWWayofTime:bloodMagicBaseAlchemyItems:0, Offensa
-AWWayofTime:bloodMagicBaseAlchemyItems:1, Praesidium
-AWWayofTime:bloodMagicBaseAlchemyItems:2, Orbis Terrae
-AWWayofTime:bloodMagicBaseAlchemyItems:3, Strengthened Catalyst
-AWWayofTime:bloodMagicBaseAlchemyItems:4, Concentrated Catalyst
-AWWayofTime:bloodMagicBaseAlchemyItems:5, Fractured Bone
-AWWayofTime:bloodMagicBaseAlchemyItems:6, Virtus
-AWWayofTime:bloodMagicBaseAlchemyItems:7, Reductus
-AWWayofTime:bloodMagicBaseAlchemyItems:8, Potentia
-AWWayofTime:dawnScribeTool, Elemental Inscription Tool: Dawn
-AWWayofTime:itemBloodPack, Blood Letter's Pack
-AWWayofTime:itemHarvestSigil, Harvest Goddess Sigil
-AWWayofTime:itemCompressionSigil, Sigil of Compression
-AWWayofTime:itemAssassinSigil, Sigil of the Assassin
-AWWayofTime:boundHelmetWater, Water Omega Helmet
-AWWayofTime:boundPlateWater, Water Omega Plate
-AWWayofTime:boundLeggingsWater, Water Omega Leggings
-AWWayofTime:boundBootsWater, Water Omega Boots
-AWWayofTime:boundHelmetEarth, Earth Omega Helmet
-AWWayofTime:boundPlateEarth, Earth Omega Plate
-AWWayofTime:boundLeggingsEarth, Earth Omega Leggings
-AWWayofTime:boundBootsEarth, Earth Omega Boots
-AWWayofTime:boundHelmetWind, Wind Omega Helmet
-AWWayofTime:boundPlateWind, Wind Omega Plate
-AWWayofTime:boundLeggingsWind, Wind Omega Leggings
-AWWayofTime:boundBootsWind, Wind Omega Boots
-AWWayofTime:boundHelmetFire, Fire Omega Helmet
-AWWayofTime:boundPlateFire, Fire Omega Plate
-AWWayofTime:boundLeggingsFire, Fire Omega Leggings
-AWWayofTime:boundBootsFire, Fire Omega Boots
-AWWayofTime:inputRoutingFocus, Input Routing Focus
-AWWayofTime:outputRoutingFocus, item.outputRoutingFocus.name
-AWWayofTime:bloodMagicIncenseItem:0, Wood Ash
-AWWayofTime:bloodMagicIncenseItem:1, Byrrus
-AWWayofTime:bloodMagicIncenseItem:2, Livens
-AWWayofTime:bloodMagicIncenseItem:3, Viridis
-AWWayofTime:bloodMagicIncenseItem:4, Purpura
-AWWayofTime:ritualDismantler, Ritual Dismantler
 Baubles:Ring:0, Miner's Ring
 Thaumcraft:WandCasting:0, Iron Capped Wooden Wand
 Thaumcraft:WandCasting:9, Gold Banded Greatwood Wand
@@ -13463,294 +12965,6 @@ ThaumicExploration:taintBerry, Taintberry
 ThaumicExploration:tentacleRing, Taintacle Ring
 ThaumicExploration:stabilizerBelt, Thaumostatic Stabilizer
 ThaumicExploration:discountRing, item.thaumicexploration:discountRing.name
-ae2wct:infinityBoosterCard, Infinity Booster Card
-ae2wct:infinityBoosterIcon, item.null.name
-ae2wct:wirelessCraftingTerminal, Wireless Crafting Terminal
-ae2wct:magnetCard, Magnet Card
-ae2wct:boosterBG, item.boosterBG.name
-witchery:ingredient:0, Candelabra
-witchery:ingredient:1, Chalice
-witchery:ingredient:2, Chalice (Filled)
-witchery:ingredient:3, Dream Weaver of Fleet Foot
-witchery:ingredient:4, Dream Weaver of Iron Arm
-witchery:ingredient:5, Dream Weaver of Fasting
-witchery:ingredient:6, Dream Weaver of Nightmares
-witchery:ingredient:7, Bone Needle
-witchery:ingredient:8, Broom
-witchery:ingredient:9, Enchanted Broom
-witchery:ingredient:10, Attuned Stone
-witchery:ingredient:11, Attuned Stone (Charged)
-witchery:ingredient:12, Waystone
-witchery:ingredient:14, Mutandis
-witchery:ingredient:15, Mutandis Extremis
-witchery:ingredient:16, Quicklime
-witchery:ingredient:17, Gypsum
-witchery:ingredient:18, Wood Ash
-witchery:ingredient:21, Belladonna Flower
-witchery:ingredient:22, Mandrake Root
-witchery:ingredient:23, Demon Heart
-witchery:ingredient:24, Wool of Bat
-witchery:ingredient:25, Tongue of Dog
-witchery:ingredient:26, Soft Clay Jar
-witchery:ingredient:27, Clay Jar
-witchery:ingredient:28, Foul Fume
-witchery:ingredient:29, Diamond Vapor
-witchery:ingredient:30, Oil of Vitriol
-witchery:ingredient:31, Exhale of the Horned One
-witchery:ingredient:32, Breath of the Goddess
-witchery:ingredient:33, Hint of Rebirth
-witchery:ingredient:34, Whiff of Magic
-witchery:ingredient:35, Reek of Misfortune
-witchery:ingredient:36, Odour of Purity
-witchery:ingredient:37, Tear of the Goddess
-witchery:ingredient:38, Refined Evil
-witchery:ingredient:39, Drop of Luck
-witchery:ingredient:40, Redstone Soup
-witchery:ingredient:41, Flying Ointment
-witchery:ingredient:42, Ghost of the Light
-witchery:ingredient:43, Soul of the World
-witchery:ingredient:44, Spirit of Otherwhere
-witchery:ingredient:45, Infernal Animus
-witchery:ingredient:46, Witchcraft: Collecting Fumes
-witchery:ingredient:47, Witchcraft: Distilling
-witchery:ingredient:48, Witchcraft: Circle Magic
-witchery:ingredient:49, Witchcraft: Brews & Infusions
-witchery:ingredient:50, Raw Porkchop?
-witchery:ingredient:51, Cooked Porkchop?
-witchery:ingredient:52, Rowan Wood Door
-witchery:ingredient:53, Alder Wood Door
-witchery:ingredient:54, Rowan Door Key
-witchery:ingredient:55, Rock
-witchery:ingredient:56, Dense Web
-witchery:ingredient:57, Brew of Vines
-witchery:ingredient:58, Brew of Webs
-witchery:ingredient:59, Brew of Thorns
-witchery:ingredient:60, Brew of Ink
-witchery:ingredient:61, Brew of Sprouting
-witchery:ingredient:62, Brew of Erosion
-witchery:ingredient:63, Rowan Berries
-witchery:ingredient:64, Necromantic Stone
-witchery:ingredient:65, Brew of Raising
-witchery:ingredient:66, Spectral Dust
-witchery:ingredient:67, Ender Dew
-witchery:ingredient:69, Water Artichoke Globe
-witchery:ingredient:70, Treefyd Seed
-witchery:ingredient:71, Brew of the Grotesque
-witchery:ingredient:72, Impregnated Leather
-witchery:ingredient:73, Fume Filter
-witchery:ingredient:74, Creeper Heart
-witchery:ingredient:75, Brew of Love
-witchery:ingredient:76, Brew of Frost
-witchery:ingredient:77, Brew of the Depths
-witchery:ingredient:78, Icy Needle
-witchery:ingredient:79, Frozen Heart
-witchery:ingredient:80, Demonic Blood
-witchery:ingredient:81, Witchcraft: Herbology
-witchery:ingredient:82, Ent Twig
-witchery:ingredient:83, Mystic Unguent
-witchery:ingredient:84, Rowan Keyring
-witchery:ingredient:85, Brew of Frogs Tongue
-witchery:ingredient:86, Brew of Cursed Leaping
-witchery:ingredient:87, Brew of Bodega
-witchery:ingredient:88, Brew of Infection
-witchery:ingredient:89, Owlet's Wing
-witchery:ingredient:90, Toe of Frog
-witchery:ingredient:91, Wormy Apple
-witchery:ingredient:92, Quartz Sphere
-witchery:ingredient:93, Happenstance Oil
-witchery:ingredient:94, Seer Stone
-witchery:ingredient:95, Brew of Sleeping
-witchery:ingredient:96, Brew of Flowing Spirit
-witchery:ingredient:97, Brew of Wasting
-witchery:ingredient:98, Apple
-witchery:ingredient:99, Disturbed Cotton
-witchery:ingredient:100, Fanciful Thread
-witchery:ingredient:101, Tormented Twine
-witchery:ingredient:102, Golden Thread
-witchery:ingredient:103, Mellifluous Hunger
-witchery:ingredient:104, Dream Weaver of Intensity
-witchery:ingredient:105, Purified Milk
-witchery:ingredient:106, Book of Biomes
-witchery:ingredient:107, Witchcraft: Symbology
-witchery:ingredient:108, Concentrated Bat Ball
-witchery:ingredient:109, Brew of Bats
-witchery:ingredient:110, Charm of Fanciful Thinking
-witchery:ingredient:111, Wormwood
-witchery:ingredient:112, Subdued Spirit
-witchery:ingredient:113, Focused Will
-witchery:ingredient:114, Condensed Fear
-witchery:ingredient:115, Brew of Hollow Tears
-witchery:ingredient:116, Solidifying Brew (Stone)
-witchery:ingredient:117, Solidifying Brew (Dirt)
-witchery:ingredient:118, Solidifying Brew (Sand)
-witchery:ingredient:119, Solidifying Brew (Sandstone)
-witchery:ingredient:120, Solidifying Brew (Erosion)
-witchery:ingredient:121, Infused Brew Base
-witchery:ingredient:122, Infused Brew of Soaring
-witchery:ingredient:123, Infused Brew of the Grave
-witchery:ingredient:124, Brew of Revealing
-witchery:ingredient:125, Brew of Substitution
-witchery:ingredient:126, Congealed Spirit
-witchery:ingredient:127, Witchcraft: Conjuration & Fetishes
-witchery:ingredient:128, Graveyard Dust
-witchery:ingredient:129, Binky's Skull
-witchery:ingredient:130, Null Catalyst
-witchery:ingredient:131, Nullified Leather
-witchery:ingredient:132, Wooden Bolt
-witchery:ingredient:133, Nullifying Bolt
-witchery:ingredient:134, Bone Bolt
-witchery:ingredient:135, Splitting Bolt
-witchery:ingredient:136, Soul of Hunger Demon
-witchery:ingredient:137, Soul of Anguish Demon
-witchery:ingredient:138, Soul of Fear Demon
-witchery:ingredient:139, Soul of Torment Demon
-witchery:ingredient:140, Demonic Contract
-witchery:ingredient:141, Torment
-witchery:ingredient:142, Living Flame
-witchery:ingredient:143, Fiery Tolerance
-witchery:ingredient:144, Evaporation
-witchery:ingredient:145, Fiery Touch
-witchery:ingredient:146, Melting Touch
-witchery:ingredient:148, Koboldite Dust
-witchery:ingredient:149, Koboldite Nugget
-witchery:ingredient:150, Koboldite Ingot
-witchery:ingredient:151, Pentacle
-witchery:ingredient:152, Ice Door
-witchery:ingredient:153, Anointing Paste
-witchery:ingredient:154, Subdued Village Spirit
-witchery:ingredient:155, Silver Bolt
-witchery:ingredient:156, Wolfsbane
-witchery:ingredient:157, Silver Deposits
-witchery:ingredient:158, Raw Lambchop
-witchery:ingredient:159, Cooked Lambchop
-witchery:ingredient:160, Torn Page
-witchery:ingredient:161, Woven Cruor
-witchery:ingredient:162, Wooden Stake
-witchery:ingredient:163, Warm Blood
-witchery:ingredient:164, Lilith's Blood
-witchery:ingredient:165, Heart of Gold
-witchery:taglockkit, Taglock Kit
-witchery:poppet:0, Poppet
-witchery:poppet:1, Earth Protection Poppet
-witchery:poppet:2, Water Protection Poppet
-witchery:poppet:3, Fire Protection Poppet
-witchery:poppet:4, Hunger Protection Poppet
-witchery:poppet:5, Tool Protection Poppet
-witchery:poppet:6, Death Protection Poppet
-witchery:poppet:7, Voodoo Protection Poppet
-witchery:poppet:8, Voodoo Poppet
-witchery:poppet:9, Vampiric Poppet
-witchery:poppet:10, Poppet Protection Poppet
-witchery:poppet:11, Armor Protection Poppet
-witchery:potion:0, Universal Antidote
-witchery:coffin, Coffin
-witchery:stew, Meaty Stew
-witchery:stewraw, Raw Meaty Stew
-witchery:mirror, Mirror
-witchery:chalkritual, Ritual Chalk
-witchery:chalkotherwhere, Otherwhere Chalk
-witchery:chalkinfernal, Infernal Chalk
-witchery:chalkheart, Golden Chalk
-witchery:boline, Boline
-witchery:arthana, Arthana
-witchery:huntsmanspear, Spear of the Huntsman
-witchery:handbow, Witch Hunter Pistol Crossbow
-witchery:deathshand, Hand of Death
-witchery:silversword, Silver Sword
-witchery:canesword, Cane Sword
-witchery:witchhand, Witches Hand
-witchery:circletalisman:0, Circle Talisman
-witchery:circletalisman:1, Circle Talisman (Small Ritual)
-witchery:circletalisman:2, Circle Talisman (Small Otherwhere)
-witchery:circletalisman:3, Circle Talisman (Small Infernal)
-witchery:circletalisman:8, Circle Talisman (Medium Ritual)
-witchery:circletalisman:16, Circle Talisman (Medium Otherwhere)
-witchery:circletalisman:24, Circle Talisman (Medium Infernal)
-witchery:circletalisman:64, Circle Talisman (Large Ritual)
-witchery:circletalisman:128, Circle Talisman (Large Otherwhere)
-witchery:circletalisman:192, Circle Talisman (Large Infernal)
-witchery:mysticbranch, Mystic Branch
-witchery:divinerwater, Water Diviner
-witchery:divinerlava, Lava Diviner
-witchery:polynesiacharm, Polynesia Charm
-witchery:devilstonguecharm, Devils Tongue Charm
-witchery:mutator, Mutating Sprig
-witchery:louse:0, Parasytic Louse
-witchery:brewbag, Brew Bag
-witchery:spectralstone:0, Spectral Stone
-witchery:spectralstone:17, Spectral Stone
-witchery:spectralstone:18, Spectral Stone
-witchery:spectralstone:19, Spectral Stone
-witchery:shelfcompass, Poppet Shelf Compass
-witchery:kobolditepickaxe, Koboldite Pickaxe
-witchery:dupstaff, Staff of Duplication
-witchery:brewbottle:0, Brew
-witchery:brew.fuel:0, Brew of Combustion
-witchery:brew.water, Brew of Endless Water
-witchery:bookbiomes2, Book of Biomes (Extended Edition)
-witchery:biomenote:0, Biome Beach
-witchery:cauldronbook:0, Witches' Brews
-witchery:leonardsurn:0, Leonard's Urn
-witchery:leonardsurn:1, Leonard's Urn
-witchery:leonardsurn:2, Leonard's Urn
-witchery:leonardsurn:3, Leonard's Urn
-witchery:playercompass, Player Compass
-witchery:mooncharm, Moon Charm
-witchery:hornofthehunt, Horn of the Hunt
-witchery:wolftoken, Creative Bat/Wolf Token
-witchery:glassgoblet:0, Glass Goblet
-witchery:sungrenade, Sun Grenade
-witchery:vampirebook:0, Observations of an Immortal
-witchery:vampirebook:9, Observations of an Immortal
-witchery:dupgrenade, Duplication Grenade
-witchery:witchhat, Witches' Hat
-witchery:babashat, Baba Yaga's Hat
-witchery:witchrobe, Witches Robes
-witchery:necromancerrobe, Necromancer Robes
-witchery:bitingbelt, Biting Belt
-witchery:barkbelt, Bark Belt
-witchery:iceslippers, Icy Slippers
-witchery:rubyslippers, Ruby Slippers
-witchery:seepingshoes, Seeping Shoes
-witchery:hunterhat, Witch Hunter Hat
-witchery:huntercoat, Witch Hunter Coat
-witchery:hunterlegs, Witch Hunter Trousers
-witchery:hunterboots, Witch Hunter Boots
-witchery:hunterhatsilvered, Witch Hunter Hat (Silvered)
-witchery:huntercoatsilvered, Witch Hunter Coat (Silvered)
-witchery:hunterlegssilvered, Witch Hunter Trousers (Silvered)
-witchery:hunterbootssilvered, Witch Hunter Boots (Silvered)
-witchery:hunterhatgarlicked, Witch Hunter Dawn Hat
-witchery:huntercoatgarlicked, Witch Hunter Dawn Coat
-witchery:hunterlegsgarlicked, Witch Hunter Dawn Trousers
-witchery:hunterbootsgarlicked, Witch Hunter Dawn Boots
-witchery:deathscowl, Death's Hood
-witchery:deathsrobe, Death's Robe
-witchery:deathsfeet, Death's Footwear
-witchery:quiverofmog, Mog's Quiver
-witchery:gurdleofgulg, Gulg's Gurdle
-witchery:kobolditehelm, Twisting Band
-witchery:earmuffs, Earmuffs
-witchery:vampirehat, Vampire Top Hat
-witchery:vampirehelmet, Vampire Helmet
-witchery:vampirecoat, Vampire Dress Coat
-witchery:vampirecoat_female, Vampire Dress Jacket (Ladies)
-witchery:vampirechaincoat, Vampire Chain Coat
-witchery:vampirechaincoat_female, Vampire Chain Coat (Ladies)
-witchery:vampirelegs, Vampire Trousers
-witchery:vampirelegs_kilt, Vampire Skirted Trousers
-witchery:vampireboots, Vampire Oxford Boots
-witchery:seedsbelladonna, Belladonna Seeds
-witchery:seedsmandrake, Mandrake Seeds
-witchery:seedsartichoke, Water Artichoke Seeds
-witchery:seedssnowbell, Snowbell Seeds
-witchery:seedswormwood, Wormwood Seeds
-witchery:seedsmindrake, Minedrake Bulb
-witchery:seedswolfsbane, Wolfsbane Seeds
-witchery:garlic, Garlic
-witchery:bucketspirit, Spirit Bucket
-witchery:buckethollowtears, Hollow Tears Bucket
-witchery:bucketbrew, item.witchery:bucketbrew.name
 ForgeMicroblock:sawStone, Stone Saw
 ForgeMicroblock:sawIron, Iron Saw
 ForgeMicroblock:sawDiamond, Diamond Saw
