@@ -49,9 +49,9 @@
     "dimension_blacklist": [],
     "forced_chunk_security": "-",
     "forced_explosions": "-",
-    "max_claims": 16,
+    "max_claims": 25,
     "max_homes": 0,
-    "max_loaded_chunks": 16,
+    "max_loaded_chunks": 25,
     "show_rank": true
   },
   "permissions_player": {
@@ -67,9 +67,9 @@
     ],
     "forced_chunk_security": "-",
     "forced_explosions": "-",
-    "max_claims": 100,
+    "max_claims": 16,
     "max_homes": 1,
-    "max_loaded_chunks": 50,
+    "max_loaded_chunks": 16,
     "show_rank": true
   },
   "tops": {
