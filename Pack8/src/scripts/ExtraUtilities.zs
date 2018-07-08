@@ -49,7 +49,6 @@ recipes.remove(<ExtraUtilities:angelRing:3>);
 recipes.remove(<ExtraUtilities:angelRing:2>);
 recipes.remove(<ExtraUtilities:angelRing:1>);
 recipes.remove(<ExtraUtilities:angelRing>);
-furnace.remove(<ExtraUtilities:block_bedrockium>);
 
 // --- Recipe Shapeless
 recipes.addShapeless(<ExtraUtilities:angelRing:4>, [<ExtraUtilities:angelRing>, <minecraft:gold_nugget>, <minecraft:gold_nugget>]);
