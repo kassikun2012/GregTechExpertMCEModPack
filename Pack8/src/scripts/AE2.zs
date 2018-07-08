@@ -749,7 +749,7 @@ recipes.addShaped(<appliedenergistics2:tile.BlockVibrationChamber>, [
 
 //ME Security Terminal
 recipes.addShaped(<appliedenergistics2:tile.BlockSecurity>, [
-[<ore:plateAluminium>, <appliedenergistics2:tile.BlockChest>, <ore:plateAluminium>],
+[<ore:plateAluminium>, <ore:chestWood>, <ore:plateAluminium>],
 [<appliedenergistics2:item.ItemMultiPart:16>, <appliedenergistics2:item.ItemMultiMaterial:37>, <appliedenergistics2:item.ItemMultiPart:16>],
 [<ore:plateAluminium>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:plateAluminium>]]);
 
@@ -976,7 +976,7 @@ recipes.addShaped(<appliedenergistics2:item.ToolColorApplicator>, [
 
 //Biometric Card
 recipes.addShaped(<appliedenergistics2:item.ToolBiometricCard>, [
-[<appliedenergistics2:item.ItemMultiMaterial:24>, <ore:plateAluminium>, <ore:plateAluminium>],
+[<appliedenergistics2:item.ItemMultiMaterial:24>, <ore:plateIron>, <ore:plateIron>],
 [<ore:plateGold>, <ore:plateRedAlloy>, <ore:plateGold>],[null, null, null]]);
 
 //Quartz Glass

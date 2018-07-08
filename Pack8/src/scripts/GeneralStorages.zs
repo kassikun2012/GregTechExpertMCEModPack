@@ -14,7 +14,7 @@ recipes.remove(<MultiPageChest:multipagechest>);
 recipes.addShaped(<EnderStorage:enderPouch>, [
     [<gregtech:gt.metaitem.01:29301>, <minecraft:leather>, <gregtech:gt.metaitem.01:29301>],
     [<minecraft:leather>, <EnderIO:itemMaterial:8>, <minecraft:leather>],
-    [<gregtech:gt.metaitem.01:29301>, <minecraft:wool>, <gregtech:gt.metaitem.01:29301>]
+    [<gregtech:gt.metaitem.01:29301>, <ore:blockWool>, <gregtech:gt.metaitem.01:29301>]
 ]);
 
 recipes.addShaped(<EnderStorage:enderChest:4096>, [
