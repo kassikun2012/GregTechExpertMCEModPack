@@ -63,6 +63,22 @@ val BasicCircuit = <gregtech:gt.metaitem.01:32701>;
 val GoodCircuit = <gregtech:gt.metaitem.01:32702>;
 val AdvCircuit = <gregtech:gt.metaitem.01:32703>;
 val DataCircuit = <gregtech:gt.metaitem.01:32704>;
+val LVCircuit = <ore:LvCircuit>;
+LVCircuit.add(<gregtech:gt.metaitem.01:32701>);
+LVCircuit.add(<gregtech:gt.metaitem.03:32701>);
+LVCircuit.add(<IC2:itemPartCircuit>);
+val MVCircuit = <ore:MvCircuit>;
+MVCircuit.add(<gregtech:gt.metaitem.01:32702>);
+MVCircuit.add(<gregtech:gt.metaitem.03:32079>);
+MVCircuit.add(<gregtech:gt.metaitem.03:32080>);
+val HVCircuit = <ore:HvCircuit>;
+HVCircuit.add(<gregtech:gt.metaitem.01:32703>);
+HVCircuit.add(<gregtech:gt.metaitem.01:32082>);
+HVCircuit.add(<IC2:itemPartCircuitAdv>);
+val EVCircuit = <ore:EvCircuit>;
+EVCircuit.add(<gregtech:gt.metaitem.01:32704>);
+EVCircuit.add(<gregtech:gt.metaitem.01:32083>);
+EVCircuit.add(<gregtech:gt.metaitem.01:32085>);
 val EFlow = <gregtech:gt.metaitem.01:32706>;
 
 val StainlessPlate = <ore:plateStainlessSteel>;
@@ -291,7 +307,7 @@ recipes.addShaped(MEController, [
 // --- Energy Cell
 recipes.addShaped(EnergyCell, [
 [CertusRod, FluixDust, CertusRod],
-[AdvCircuit, FluixBlock, AdvCircuit],
+[HVCircuit, FluixBlock, HVCircuit],
 [CertusRod, AlCable, CertusRod]]);
 
 // --- Dense Energy Cell
@@ -302,9 +318,9 @@ recipes.addShaped(DEnergyCell, [
 
 // --- ME Chest
 recipes.addShaped(MEChest, [
-[StainlessPlate, GoodCircuit, StainlessPlate],
+[StainlessPlate, MVCircuit, StainlessPlate],
 [FluixGlassCable, <ore:chestWood>, FluixGlassCable],
-[StainlessPlate, GoodCircuit, StainlessPlate]]);
+[StainlessPlate, MVCircuit, StainlessPlate]]);
 
 // --- ME Drive
 recipes.addShaped(<appliedenergistics2:tile.BlockDrive>, [
@@ -322,7 +338,7 @@ recipes.addShaped(<appliedenergistics2:tile.BlockDrive>, [
 // --- CraftingUnit
 recipes.addShaped(CraftingUnit, [
 [AluminiumPlate, GoldCircuit, AluminiumPlate],
-[BasicCircuit, EngineeringCircuit, BasicCircuit],
+[LVCircuit, EngineeringCircuit, LVCircuit],
 [AluminiumPlate, CertusCircuit, AluminiumPlate]]);
 
 // --- CoCraftingUnit
@@ -436,7 +452,7 @@ recipes.addShaped(FluixPearl, [
 recipes.addShaped(WirelessReceiver, [
 [QuartzFiber, FluixPearl, QuartzFiber],
 [null, EnderEyeRod, null],
-[CertusPlate, AdvCircuit, CertusPlate]]);
+[CertusPlate, HVCircuit, CertusPlate]]);
 
 // --- Illuminated Panel
 recipes.addShaped(Illuminated, [
@@ -447,12 +463,12 @@ recipes.addShaped(Illuminated, [
 // --- Terminal
 recipes.addShaped(Terminal, [
 [NQuartzRod, QuartziteScrew, NQuartzRod],
-[Illuminated, GoodCircuit, CertusPlate],
+[Illuminated, ore:MvCircuit, CertusPlate],
 [NQuartzRod, Screwdriver, NQuartzRod]]);
 // - Alternate Recipe
 recipes.addShaped(Terminal, [
 [NQuartzRod, Screwdriver, NQuartzRod],
-[Illuminated, GoodCircuit, CertusPlate],
+[Illuminated, ore:MvCircuit, CertusPlate],
 [NQuartzRod, QuartziteScrew, NQuartzRod]]);
 
 // --- Crafting Terminal
@@ -555,21 +571,21 @@ recipes.addShaped(StorageComponent1K, [
 
 // --- Storage Cell Component - 4K
 recipes.addShaped(StorageComponent4K, [
-[BasicCircuit, StorageComponent1K, BasicCircuit],
+[LVCircuit, StorageComponent1K, LVCircuit],
 [StorageComponent1K, GoldCircuit, StorageComponent1K],
-[BasicCircuit, StorageComponent1K, BasicCircuit]]);
+[LVCircuit, StorageComponent1K, LVCircuit]]);
 
 // --- Storage Cell Component - 16K
 recipes.addShaped(StorageComponent16K, [
-[GoodCircuit, StorageComponent4K, GoodCircuit],
+[MVCircuit, StorageComponent4K, MVCircuit],
 [StorageComponent4K, CertusCircuit, StorageComponent4K],
-[GoodCircuit, StorageComponent4K, GoodCircuit]]);
+[MVCircuit, StorageComponent4K, MVCircuit]]);
 
 // --- Storage Cell Component - 64K
 recipes.addShaped(StorageComponent64K, [
-[AdvCircuit, StorageComponent16K, AdvCircuit],
+[HVCircuit, StorageComponent16K, HVCircuit],
 [StorageComponent16K, CertusCircuit, StorageComponent16K],
-[AdvCircuit, StorageComponent16K, AdvCircuit]]);
+[HVCircuit, StorageComponent16K, HVCircuit]]);
 
 
 // #======= Hiding Stuff =======#
