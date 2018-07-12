@@ -60,7 +60,8 @@ val AdvAssembler = <gregtech:gt.blockmachines:212>;
 
 val NANDChip = <gregtech:gt.metaitem.01:32700>;
 val BasicCircuit = <gregtech:gt.metaitem.01:32701>;
-val GoodCircuit = <gregtech:gt.metaitem.01:32702>;
+val GoodIntegratedCircuit = <gregtech:gt.metaitem.01:32702>;
+val GoodElectronicCircuit = <gregtech:gt.metaitem.03:32079>;
 val AdvCircuit = <gregtech:gt.metaitem.01:32703>;
 val DataCircuit = <gregtech:gt.metaitem.01:32704>;
 val EFlow = <gregtech:gt.metaitem.01:32706>;
@@ -302,9 +303,15 @@ recipes.addShaped(DEnergyCell, [
 
 // --- ME Chest
 recipes.addShaped(MEChest, [
-[StainlessPlate, GoodCircuit, StainlessPlate],
+[StainlessPlate, GoodIntegratedCircuit, StainlessPlate],
 [FluixGlassCable, <ore:chestWood>, FluixGlassCable],
-[StainlessPlate, GoodCircuit, StainlessPlate]]);
+[StainlessPlate, GoodIntegratedCircuit, StainlessPlate]]);
+
+// --- ME Chest
+recipes.addShaped(MEChest, [
+[StainlessPlate, GoodElectronicCircuit, StainlessPlate],
+[FluixGlassCable, <ore:chestWood>, FluixGlassCable],
+[StainlessPlate, GoodElectronicCircuit, StainlessPlate]]);
 
 // --- ME Drive
 recipes.addShaped(<appliedenergistics2:tile.BlockDrive>, [
@@ -447,12 +454,25 @@ recipes.addShaped(Illuminated, [
 // --- Terminal
 recipes.addShaped(Terminal, [
 [NQuartzRod, QuartziteScrew, NQuartzRod],
-[Illuminated, GoodCircuit, CertusPlate],
+[Illuminated, GoodIntegratedCircuit, CertusPlate],
 [NQuartzRod, Screwdriver, NQuartzRod]]);
+
+// --- Terminal
+recipes.addShaped(Terminal, [
+[NQuartzRod, QuartziteScrew, NQuartzRod],
+[Illuminated, GoodElectronicCircuit, CertusPlate],
+[NQuartzRod, Screwdriver, NQuartzRod]]);
+
 // - Alternate Recipe
 recipes.addShaped(Terminal, [
 [NQuartzRod, Screwdriver, NQuartzRod],
-[Illuminated, GoodCircuit, CertusPlate],
+[Illuminated, GoodIntegratedCircuit, CertusPlate],
+[NQuartzRod, QuartziteScrew, NQuartzRod]]);
+
+// - Alternate Recipe
+recipes.addShaped(Terminal, [
+[NQuartzRod, Screwdriver, NQuartzRod],
+[Illuminated, GoodElectronicCircuit, CertusPlate],
 [NQuartzRod, QuartziteScrew, NQuartzRod]]);
 
 // --- Crafting Terminal
@@ -561,9 +581,15 @@ recipes.addShaped(StorageComponent4K, [
 
 // --- Storage Cell Component - 16K
 recipes.addShaped(StorageComponent16K, [
-[GoodCircuit, StorageComponent4K, GoodCircuit],
+[GoodIntegratedCircuit, StorageComponent4K, GoodIntegratedCircuit],
 [StorageComponent4K, CertusCircuit, StorageComponent4K],
-[GoodCircuit, StorageComponent4K, GoodCircuit]]);
+[GoodIntegratedCircuit, StorageComponent4K, GoodIntegratedCircuit]]);
+
+// --- Storage Cell Component - 16K
+recipes.addShaped(StorageComponent16K, [
+[GoodElectronicCircuit, StorageComponent4K, GoodElectronicCircuit],
+[StorageComponent4K, CertusCircuit, StorageComponent4K],
+[GoodElectronicCircuit, StorageComponent4K, GoodElectronicCircuit]]);
 
 // --- Storage Cell Component - 64K
 recipes.addShaped(StorageComponent64K, [
