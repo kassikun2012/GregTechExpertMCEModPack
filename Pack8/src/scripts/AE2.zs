@@ -73,7 +73,7 @@ MVCircuit.add(<gregtech:gt.metaitem.03:32079>);
 MVCircuit.add(<gregtech:gt.metaitem.03:32080>);
 val HVCircuit = <ore:HvCircuit>;
 HVCircuit.add(<gregtech:gt.metaitem.01:32703>);
-HVCircuit.add(<gregtech:gt.metaitem.01:32082>);
+HVCircuit.add(<gregtech:gt.metaitem.03:32082>);
 HVCircuit.add(<IC2:itemPartCircuitAdv>);
 val EVCircuit = <ore:EvCircuit>;
 EVCircuit.add(<gregtech:gt.metaitem.01:32704>);
