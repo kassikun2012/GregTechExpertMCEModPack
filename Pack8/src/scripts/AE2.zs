@@ -326,7 +326,7 @@ recipes.addShaped(MEChest, [
 recipes.addShaped(<appliedenergistics2:tile.BlockDrive>, [
 [<gregtech:gt.metaitem.01:17028>, <appliedenergistics2:item.ItemMultiMaterial:24>, <ore:plateTitanium>], 
 [<appliedenergistics2:item.ItemMultiPart:16>, <appliedenergistics2:tile.BlockChest>, <appliedenergistics2:item.ItemMultiPart:16>], 
-[<ore:plateTitanium>, <IC2:itemPartCircuitAdv>, <ore:plateTitanium>]]);
+[<ore:plateTitanium>, HVCircuit, <ore:plateTitanium>]]);
 
 
 // --- Crystal Growth Accelerator ---- Gregtech do that in the Autoclave
